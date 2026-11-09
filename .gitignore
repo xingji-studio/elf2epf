@@ -1,0 +1,5 @@
+/build*/
+/.cache/
+*.epf
+*.eps
+__pycache__/
